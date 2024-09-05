@@ -1,0 +1,5 @@
+{
+  "cluster": {
+    "address": "https://kubernetes.default.svc"
+  }
+}
