@@ -1,6 +1,7 @@
 {
   "cluster": {
     "name": "in-cluster",
-    "address": "https://kubernetes.default.svc"
+    "address": "https://kubernetes.default.svc",
+    "namespace": "default"
   }
 }
